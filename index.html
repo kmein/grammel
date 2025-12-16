@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gramle Clone</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-rows: repeat(6, 50px);
+      grid-gap: 5px;
+    }
+
+    .row {
+      display: grid;
+      grid-template-columns: repeat(5, 50px);
+      grid-gap: 5px;
+    }
+
+    .cell {
+      border: 2px solid #ccc;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 24px;
+    }
+
+    .cell.correct {
+      background-color: #6aaa64;
+      color: white;
+      border-color: #6aaa64;
+    }
+
+    .cell.present {
+      background-color: #c9b458;
+      color: white;
+      border-color: #c9b458;
+    }
+
+    .cell.absent {
+      background-color: #787c7e;
+      color: white;
+      border-color: #787c7e;
+    }
+
+    .keyboard {
+      display: flex;
+      flex-wrap: wrap;
+      max-width: 350px;
+      margin-top: 20px;
+    }
+
+    .key {
+      padding: 10px 12px;
+      margin: 2px;
+      border: 1px solid #999;
+      border-radius: 5px;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .key.used-correct {
+      background-color: #6aaa64;
+      color: white;
+    }
+
+    .key.used-present {
+      background-color: #c9b458;
+      color: white;
+    }
+
+    .key.used-absent {
+      background-color: #787c7e;
+      color: white;
+    }
+
+    #audio-container {
+      display: hidden;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Gramle Clone</h1>
+  <div id="audio-container"></div>
+  <img id="plot" style="width: 380px; margin-bottom: 10px;" />
+  <div class="grid" id="grid"></div>
+  <div class="keyboard" id="keyboard"></div>
+  <script src="gramle.js"></script>
+</body>
+
+</html>
