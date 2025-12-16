@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Gramle Clone</title>
+  <title>Grammel</title>
   <style>
     body {
       font-family: sans-serif;
@@ -83,6 +83,22 @@
       color: white;
     }
 
+    .footer {
+      margin-top: 1rem;
+      text-align: center;
+      color: #777;
+      font-size: 0.8rem;
+    }
+
+    .footer a {
+      color: #666;
+      text-decoration: none;
+    }
+
+    .footer a:hover {
+      text-decoration: underline;
+    }
+
     #audio-container {
       display: hidden;
     }
@@ -90,12 +106,24 @@
 </head>
 
 <body>
-  <h1>Gramle Clone</h1>
+  <h1>Grammel</h1>
   <div id="audio-container"></div>
   <img id="plot" style="width: 380px; margin-bottom: 10px;" />
   <div class="grid" id="grid"></div>
   <div class="keyboard" id="keyboard"></div>
+  <footer class="footer">
+    <p>Made with ❤️ in Berlin by <a href="https://github.com/kmein">Kierán Meinhardt</a>.</p>
+    <p>Inspiriert von <a href="https://nascl.rc.nau.edu/gramle/">Gramle</a> (Dallin Tucker und Benjamin V. Tucker).</p>
+    <small>
+      Grammel nutzt IPA-Transkriptionen aus
+      <a href="https://www.wiktionary.org/" target="_blank" rel="noopener">Wiktionary</a>
+      (CC BY-SA 4.0) sowie Sprachaufnahmen aus
+      <a href="https://commons.wikimedia.org/" target="_blank" rel="noopener">Wikimedia Commons</a>.
+      Abgeleitete Daten und Visualisierungen stehen unter CC BY-SA 4.0.
+    </small>
+  </footer>
   <script src="gramle.js"></script>
+
 </body>
 
 </html>

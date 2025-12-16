@@ -6,6 +6,11 @@ Statt Buchstaben werden **IPA-Phonemsequenzen** geraten. Nach jedem Versuch erh�
 
 Dieses Repository enthält die **Datenpipeline und Frontend-Assets**, mit denen das Spiel aufgebaut wird.
 
+> [!NOTE]
+> This project uses IPA transcriptions from Wiktionary (CC BY-SA 4.0) and audio recordings from Wikimedia Commons.
+> Derived data and visualizations are provided under CC BY-SA 4.0.
+> Original contributors are credited via Wiktionary and Wikimedia Commons.
+
 ## Überblick
 
 Die Pipeline besteht aus folgenden Schritten:
