@@ -13,7 +13,7 @@ const keyboardEl = document.getElementById("keyboard");
 const audioContainer = document.getElementById("audio-container");
 
 function plotFromOgg(oggUrl) {
-  const base = oggUrl.split("/").pop().replace(/\.(ogg|mp3)$/, "");
+  const base = oggUrl.split("/").pop().replace(/\.(ogg|OGG|mp3)$/, "");
   return `plots/${base}.png`;
 }
 
