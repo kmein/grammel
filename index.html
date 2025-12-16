@@ -2,9 +2,32 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Grammel</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Grammel – Ein Phonetik-Ratespiel</title>
+
+  <meta name="description"
+    content="Grammel ist ein Wordle-ähnliches Ratespiel für IPA-Phoneme. Spieler:innen erraten fünfsegmentige Wörter anhand von Spektrogrammen und Formanten.">
+
+  <meta name="keywords"
+    content="Phonetik, IPA, Linguistik, Wordle, Spektrogramm, Formanten, Sprachwissenschaft, Aussprache">
+
+  <meta name="author" content="Grammel-Projekt">
+
+  <!-- Open Graph (social preview) -->
+  <meta property="og:title" content="Grammel – Ein Phonetik-Ratespiel">
+  <meta property="og:description"
+    content="Errate IPA-Phoneme mit Hilfe von Spektrogrammen und Formanten. Ein Wordle-ähnliches Spiel für Sprachwissenschaft.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://example.org/grammel">
+  <meta property="og:image" content="https://example.org/grammel/preview.png">
+
+  <!-- Twitter / X -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Grammel – Phonetik spielerisch">
+  <meta name="twitter:description" content="Ein IPA-Ratespiel mit akustischen Hinweisen (Spektrogramm & Formanten).">
+  <meta name="twitter:image" content="https://example.org/grammel/preview.png">
   <style>
     body {
       font-family: sans-serif;
@@ -120,6 +143,20 @@
 
 <body>
   <h1>Grammel</h1>
+  <details class="about">
+    <summary>Was ist Grammel?</summary>
+    <p>
+      Grammel ist ein Wordle-ähnliches Ratespiel für Phonetik.
+      Gesucht ist ein Wort mit genau fünf IPA-Segmenten.
+      Nach jedem Versuch erhältst du Rückmeldung pro Segment
+      (richtig, falsche Position, nicht enthalten).
+    </p>
+    <p>
+      Als zusätzliche Hilfe wird ein Spektrogramm mit Formanten angezeigt,
+      berechnet aus einer realen Sprachaufnahme.
+      Ziel ist es, Lautstruktur und Artikulation spielerisch zu erschließen.
+    </p>
+  </details>
   <div id="audio-container"></div>
   <img id="plot" style="width: 380px; margin-bottom: 10px;" />
   <div class="grid" id="grid"></div>
