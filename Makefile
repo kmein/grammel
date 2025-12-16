@@ -7,9 +7,7 @@ de-extract.jsonl.gz:
 de-extract.jsonl: de-extract.jsonl.gz
 	gunzip -k $<
 
-
 LIMIT ?= 10000
-
 words.json: de-extract.jsonl filter.jq
 	head -n $(LIMIT) de-extract.jsonl | jq -sf filter.jq - > $@
 

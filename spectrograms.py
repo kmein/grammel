@@ -76,7 +76,10 @@ def main():
 
         filename = os.path.basename(urlparse(url).path)
         audio_path = os.path.join(AUDIO_DIR, filename)
-        plot_path = os.path.join(PLOT_DIR, filename.replace(".ogg", ".png"))
+        plot_path = os.path.join(PLOT_DIR, filename.replace(".OGG", ".ogg").replace(".ogg", ".png"))
+
+        if os.path.exists(plot_path):
+            continue
 
         print(f"Processing {filename}  [{ipa}]")
 

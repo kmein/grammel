@@ -1,13 +1,12 @@
 def split_phonemes:
   [scan(
-    "aʊ̯|ɔɪ̯|aɪ̯|ɔʏ̯|."   # diphthongs first, then any single char
+    "aː|eː|iː|oː|uː|yː|øː|ɛː|aʊ̯|ɔɪ̯|aɪ̯|ɔʏ̯|."
   )]
 ;
 
 def normalize:
   gsub("[\\[\\]]"; "")
-  | gsub("ɛː"; "æ")
-  | gsub("[ˈˌː.]"; "")
+  | gsub("[ˈˌ.]"; "")
   | gsub("t͡s"; "ʦ")
   | gsub("i̯";"j")
   | gsub("n̩";"ən")
