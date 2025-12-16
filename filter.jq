@@ -25,5 +25,6 @@ map(
     }
   | select(.ipa != null and .ogg_url != null)
   | select(.ipa | length == 5)
+  | select(.ipa | map(test(" ") | not) | all)
   | select(.ogg_url | test("De-"))
 )
