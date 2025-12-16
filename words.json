@@ -111,6 +111,16 @@
   },
   {
     "ipa": [
+      "t͡ʃ",
+      "ɛ",
+      "t",
+      "ə",
+      "n"
+    ],
+    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-chatten.ogg"
+  },
+  {
+    "ipa": [
       "k",
       "v",
       "ɛ",
@@ -135,7 +145,7 @@
       "ə",
       "z",
       "ɪ",
-      "ʦ"
+      "t͡s"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Besitz.ogg"
   },
@@ -165,7 +175,7 @@
       "o",
       "t",
       "iː",
-      "ʦ"
+      "t͡s"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Notiz.ogg"
   },
@@ -191,7 +201,7 @@
   },
   {
     "ipa": [
-      "ʦ",
+      "t͡s",
       "aɪ̯",
       "ç",
       "ə",
@@ -311,7 +321,7 @@
   },
   {
     "ipa": [
-      "ʦ",
+      "t͡s",
       "eː",
       "b",
       "ʁ",
@@ -321,7 +331,7 @@
   },
   {
     "ipa": [
-      "ʦ",
+      "t͡s",
       "eː",
       "b",
       "ʁ",
@@ -394,7 +404,7 @@
       "uː",
       "t",
       "eː",
-      "ʦ",
+      "t͡s",
       "eː"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-UTC.ogg"
@@ -591,26 +601,6 @@
   },
   {
     "ipa": [
-      "d",
-      "ɔɪ̯",
-      "t",
-      "͡",
-      "ʃ"
-    ],
-    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Deutsch.ogg"
-  },
-  {
-    "ipa": [
-      "d",
-      "ɔɪ̯",
-      "t",
-      "͡",
-      "ʃ"
-    ],
-    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Deutsch.ogg"
-  },
-  {
-    "ipa": [
       "ʃ",
       "ɪ",
       "m",
@@ -683,7 +673,7 @@
     "ipa": [
       "a",
       "k",
-      "ʦ",
+      "t͡s",
       "j",
       "ə"
     ],
@@ -714,7 +704,7 @@
       "v",
       "a",
       "n",
-      "ʦ",
+      "t͡s",
       "ə"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Wanze.ogg"
@@ -984,7 +974,7 @@
       "k",
       "ʁ",
       "ɔɪ̯",
-      "ʦ",
+      "t͡s",
       "ɐ"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Kreuzer.ogg"
@@ -994,7 +984,7 @@
       "k",
       "ʁ",
       "ɔɪ̯",
-      "ʦ",
+      "t͡s",
       "ɐ"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Kreuzer.ogg"
@@ -1061,7 +1051,7 @@
   },
   {
     "ipa": [
-      "ʦ",
+      "t͡s",
       "a",
       "s",
       "t",
@@ -1191,7 +1181,7 @@
   },
   {
     "ipa": [
-      "ʦ",
+      "t͡s",
       "ɔ",
       "k",
       "ə",
@@ -1311,16 +1301,6 @@
   },
   {
     "ipa": [
-      "k",
-      "ɔ",
-      "p",
-      "͡",
-      "f"
-    ],
-    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Kopf.ogg"
-  },
-  {
-    "ipa": [
       "h",
       "øː",
       "ʁ",
@@ -1341,7 +1321,7 @@
   },
   {
     "ipa": [
-      "ʦ",
+      "t͡s",
       "e",
       "l",
       "oː",
@@ -1378,6 +1358,16 @@
       "aɪ̯"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Weichei.ogg"
+  },
+  {
+    "ipa": [
+      "t͡ʃ",
+      "ɛ",
+      "ç",
+      "ɪ",
+      "ʃ"
+    ],
+    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Tschechisch.ogg"
   },
   {
     "ipa": [
@@ -1461,16 +1451,6 @@
   },
   {
     "ipa": [
-      "k",
-      "ɪ",
-      "t",
-      "͡",
-      "ʃ"
-    ],
-    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Kitsch.ogg"
-  },
-  {
-    "ipa": [
       "ʁ",
       "aː",
       "z",
@@ -1478,6 +1458,16 @@
       "n"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-rasen.ogg"
+  },
+  {
+    "ipa": [
+      "t͡ʃ",
+      "ɛ",
+      "ç",
+      "ɪ",
+      "ʃ"
+    ],
+    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-tschechisch.ogg"
   },
   {
     "ipa": [
@@ -1494,7 +1484,7 @@
       "m",
       "ʏ",
       "n",
-      "ʦ",
+      "t͡s",
       "ə"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Münze.ogg"
@@ -1511,7 +1501,7 @@
   },
   {
     "ipa": [
-      "ʦ",
+      "t͡s",
       "ɪ",
       "ʁ",
       "k",
@@ -1553,7 +1543,7 @@
     "ipa": [
       "z",
       "ɪ",
-      "ʦ",
+      "t͡s",
       "ə",
       "n"
     ],
@@ -1575,7 +1565,7 @@
       "v",
       "a",
       "ʁ",
-      "ʦ"
+      "t͡s"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-schwarz.ogg"
   },
@@ -1624,7 +1614,7 @@
       "k",
       "ɛ",
       "ʁ",
-      "ʦ",
+      "t͡s",
       "ə"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Kerze.ogg"
@@ -1694,7 +1684,7 @@
       "p",
       "a",
       "n",
-      "ʦ",
+      "t͡s",
       "ɐ"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Panzer.ogg"
@@ -1771,17 +1761,7 @@
   },
   {
     "ipa": [
-      "d",
-      "ɛ",
-      "ɪ",
-      "̯",
-      "t"
-    ],
-    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Date.ogg"
-  },
-  {
-    "ipa": [
-      "ʦ",
+      "t͡s",
       "yː",
       "ʁ",
       "ʊ",
@@ -1811,7 +1791,7 @@
   },
   {
     "ipa": [
-      "ʦ",
+      "t͡s",
       "v",
       "ɛ",
       "ʁ",
@@ -1821,7 +1801,7 @@
   },
   {
     "ipa": [
-      "ʦ",
+      "t͡s",
       "v",
       "ɛ",
       "ʁ",
@@ -2001,7 +1981,7 @@
   },
   {
     "ipa": [
-      "ʦ",
+      "t͡s",
       "yː",
       "n",
       "ɪ",
@@ -2331,6 +2311,16 @@
   },
   {
     "ipa": [
+      "ɡ",
+      "l",
+      "ɛ",
+      "t͡ʃ",
+      "ɐ"
+    ],
+    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Gletscher.ogg"
+  },
+  {
+    "ipa": [
       "øː",
       "ʁ",
       "ç",
@@ -2345,7 +2335,7 @@
       "v",
       "a",
       "n",
-      "ʦ"
+      "t͡s"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Schwanz.ogg"
   },
@@ -2358,16 +2348,6 @@
       "n"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-dehnen.ogg"
-  },
-  {
-    "ipa": [
-      "t",
-      "͡",
-      "ʃ",
-      "ɛ",
-      "t"
-    ],
-    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Chat.ogg"
   },
   {
     "ipa": [
@@ -2491,7 +2471,7 @@
   },
   {
     "ipa": [
-      "ʦ",
+      "t͡s",
       "aɪ̯",
       "t",
       "ʊ",
@@ -2504,7 +2484,7 @@
       "v",
       "ɛ",
       "l",
-      "ʦ",
+      "t͡s",
       "ɐ"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Wälzer.ogg"
@@ -2521,7 +2501,7 @@
   },
   {
     "ipa": [
-      "ʦ",
+      "t͡s",
       "v",
       "œ",
       "l",
@@ -2533,7 +2513,7 @@
     "ipa": [
       "a",
       "x",
-      "ʦ",
+      "t͡s",
       "eː",
       "n"
     ],
@@ -2564,7 +2544,7 @@
       "s",
       "k",
       "ɪ",
-      "ʦ",
+      "t͡s",
       "ə"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Skizze.ogg"
@@ -2891,6 +2871,16 @@
   },
   {
     "ipa": [
+      "ʁ",
+      "ɛɪ̯",
+      "t",
+      "ɪ",
+      "ŋ"
+    ],
+    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Rating.ogg"
+  },
+  {
+    "ipa": [
       "e",
       "n",
       "ɔ",
@@ -2925,7 +2915,7 @@
       "t",
       "ɔ",
       "l",
-      "ʦ"
+      "t͡s"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-stolz.ogg"
   },
@@ -3138,6 +3128,16 @@
       "aʊ̯"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-wau, wau.ogg"
+  },
+  {
+    "ipa": [
+      "t͡ʃ",
+      "ɛ",
+      "k",
+      "ə",
+      "n"
+    ],
+    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-checken.ogg"
   },
   {
     "ipa": [
@@ -3431,7 +3431,7 @@
   },
   {
     "ipa": [
-      "ʦ",
+      "t͡s",
       "ɛ",
       "ʁ",
       "ʊ",
@@ -3448,6 +3448,16 @@
       "ɐ"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Xaver.ogg"
+  },
+  {
+    "ipa": [
+      "s",
+      "ɔ",
+      "t͡ʃ",
+      "ɪ",
+      "l"
+    ],
+    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Xochil.ogg"
   },
   {
     "ipa": [
@@ -3468,6 +3478,16 @@
       "n"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Boden.ogg"
+  },
+  {
+    "ipa": [
+      "aɪ̯",
+      "ɐ",
+      "k",
+      "ɔ",
+      "p͡f"
+    ],
+    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Eierkopf.ogg"
   },
   {
     "ipa": [
@@ -3651,16 +3671,6 @@
   },
   {
     "ipa": [
-      "t",
-      "ɔ",
-      "p",
-      "͡",
-      "f"
-    ],
-    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Topf.ogg"
-  },
-  {
-    "ipa": [
       "l",
       "a",
       "x",
@@ -3783,7 +3793,7 @@
     "ipa": [
       "d",
       "eː",
-      "ʦ",
+      "t͡s",
       "uː",
       "k"
     ],
@@ -3965,13 +3975,13 @@
       "ə",
       "z",
       "ɛ",
-      "ʦ"
+      "t͡s"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Gesetz.ogg"
   },
   {
     "ipa": [
-      "ʦ",
+      "t͡s",
       "i",
       "t",
       "aː",
@@ -4001,7 +4011,7 @@
   },
   {
     "ipa": [
-      "ʦ",
+      "t͡s",
       "aɪ̯",
       "z",
       "ɪ",
@@ -4241,6 +4251,16 @@
   },
   {
     "ipa": [
+      "p͡f",
+      "ɛ",
+      "n",
+      "ɪ",
+      "ç"
+    ],
+    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Pfg..ogg"
+  },
+  {
+    "ipa": [
       "p",
       "ʊ",
       "ŋ",
@@ -4421,6 +4441,16 @@
   },
   {
     "ipa": [
+      "ʃ",
+      "œ",
+      "p͡f",
+      "ə",
+      "n"
+    ],
+    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-schöpfen.ogg"
+  },
+  {
+    "ipa": [
       "k",
       "ɔ",
       "l",
@@ -4528,6 +4558,16 @@
       "t"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Baguette.ogg"
+  },
+  {
+    "ipa": [
+      "f",
+      "j",
+      "uː",
+      "t͡ʃ",
+      "ɐ"
+    ],
+    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Future.ogg"
   },
   {
     "ipa": [
@@ -4661,7 +4701,7 @@
   },
   {
     "ipa": [
-      "ʦ",
+      "t͡s",
       "ɪ",
       "k",
       "ɪ",
@@ -5044,7 +5084,7 @@
       "ɡ",
       "n",
       "ɪ",
-      "ʦ",
+      "t͡s",
       "ə"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Gnitze.ogg"
@@ -5054,7 +5094,7 @@
       "ʃ",
       "v",
       "ɛ",
-      "ʦ",
+      "t͡s",
       "ɐ"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Schwätzer.ogg"
@@ -5088,6 +5128,16 @@
       "ə"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Rinde.ogg"
+  },
+  {
+    "ipa": [
+      "aɪ̯",
+      "n",
+      "t",
+      "ɔ",
+      "p͡f"
+    ],
+    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Eintopf.ogg"
   },
   {
     "ipa": [
@@ -5223,7 +5273,7 @@
     "ipa": [
       "ʁ",
       "ɛː",
-      "ʦ",
+      "t͡s",
       "ə",
       "l"
     ],
@@ -5281,13 +5331,23 @@
   },
   {
     "ipa": [
-      "ʦ",
+      "t͡s",
       "v",
       "œ",
       "l",
       "f"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Zwölf.ogg"
+  },
+  {
+    "ipa": [
+      "p͡f",
+      "l",
+      "ɪ",
+      "ç",
+      "t"
+    ],
+    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Pflicht.ogg"
   },
   {
     "ipa": [
@@ -5321,7 +5381,7 @@
   },
   {
     "ipa": [
-      "ʦ",
+      "t͡s",
       "aː",
       "l",
       "ə",
@@ -5361,7 +5421,7 @@
   },
   {
     "ipa": [
-      "ʦ",
+      "t͡s",
       "aː",
       "l",
       "ʊ",
@@ -5471,6 +5531,16 @@
   },
   {
     "ipa": [
+      "ɡ",
+      "æ",
+      "ŋ",
+      "w",
+      "ɛɪ̯"
+    ],
+    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Gangway.ogg"
+  },
+  {
+    "ipa": [
       "p",
       "e",
       "d",
@@ -5488,36 +5558,6 @@
       "s"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Kokos.ogg"
-  },
-  {
-    "ipa": [
-      "p",
-      "͡",
-      "f",
-      "aː",
-      "l"
-    ],
-    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Pfahl.ogg"
-  },
-  {
-    "ipa": [
-      "p",
-      "͡",
-      "f",
-      "aː",
-      "l"
-    ],
-    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Pfahl.ogg"
-  },
-  {
-    "ipa": [
-      "p",
-      "͡",
-      "f",
-      "aː",
-      "l"
-    ],
-    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Pfahl.ogg"
   },
   {
     "ipa": [
@@ -5561,7 +5601,17 @@
   },
   {
     "ipa": [
-      "ʦ",
+      "t͡ʃ",
+      "ɪ",
+      "l",
+      "ə",
+      "n"
+    ],
+    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-chillen.ogg"
+  },
+  {
+    "ipa": [
+      "t͡s",
       "i",
       "v",
       "iː",
@@ -5841,26 +5891,6 @@
   },
   {
     "ipa": [
-      "t",
-      "͡",
-      "ʃ",
-      "yː",
-      "s"
-    ],
-    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-tschüs.ogg"
-  },
-  {
-    "ipa": [
-      "t",
-      "͡",
-      "ʃ",
-      "ʏ",
-      "s"
-    ],
-    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-tschüs2.ogg"
-  },
-  {
-    "ipa": [
       "k",
       "v",
       "aː",
@@ -5893,7 +5923,7 @@
     "ipa": [
       "m",
       "ɛ",
-      "ʦ",
+      "t͡s",
       "eː",
       "n"
     ],
@@ -5908,6 +5938,16 @@
       "ə"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Kurie.ogg"
+  },
+  {
+    "ipa": [
+      "ɪ",
+      "m",
+      "p͡f",
+      "ʊ",
+      "ŋ"
+    ],
+    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Impfung.ogg"
   },
   {
     "ipa": [
@@ -5942,6 +5982,16 @@
   {
     "ipa": [
       "m",
+      "ɛɪ̯",
+      "l",
+      "ə",
+      "n"
+    ],
+    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-mailen.ogg"
+  },
+  {
+    "ipa": [
+      "m",
       "a",
       "m",
       "ɔ",
@@ -5961,8 +6011,28 @@
   },
   {
     "ipa": [
+      "t",
+      "ʁ",
+      "uː",
+      "t͡ʃ",
+      "ə"
+    ],
+    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Trutsche.ogg"
+  },
+  {
+    "ipa": [
+      "p",
+      "ʁ",
+      "ɪ",
+      "t͡ʃ",
+      "ə"
+    ],
+    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Pritsche.ogg"
+  },
+  {
+    "ipa": [
       "oː",
-      "ʦ",
+      "t͡s",
       "e",
       "aː",
       "n"
@@ -5981,16 +6051,6 @@
   },
   {
     "ipa": [
-      "ɑ",
-      "ː",
-      "d",
-      "ʒ",
-      "ə"
-    ],
-    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Adje.ogg"
-  },
-  {
-    "ipa": [
       "m",
       "o",
       "ʁ",
@@ -6003,7 +6063,7 @@
     "ipa": [
       "l",
       "ʏ",
-      "ʦ",
+      "t͡s",
       "ə",
       "l"
     ],
@@ -6244,7 +6304,7 @@
       "p",
       "l",
       "aʊ̯",
-      "ʦ",
+      "t͡s",
       "ə"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Plauze.ogg"
@@ -6451,6 +6511,16 @@
   },
   {
     "ipa": [
+      "k",
+      "ɛ",
+      "t͡ʃ",
+      "a",
+      "p"
+    ],
+    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Ketchup.ogg"
+  },
+  {
+    "ipa": [
       "ɡ",
       "œ",
       "t",
@@ -6473,7 +6543,7 @@
     "ipa": [
       "v",
       "aɪ̯",
-      "ʦ",
+      "t͡s",
       "ə",
       "n"
     ],
@@ -6483,7 +6553,7 @@
     "ipa": [
       "v",
       "aɪ̯",
-      "ʦ",
+      "t͡s",
       "ə",
       "n"
     ],
@@ -6808,6 +6878,16 @@
       "ɐ"
     ],
     "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Richter.ogg"
+  },
+  {
+    "ipa": [
+      "t͡s",
+      "a",
+      "p͡f",
+      "ə",
+      "n"
+    ],
+    "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-zapfen2.ogg"
   },
   {
     "ipa": [

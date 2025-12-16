@@ -1,14 +1,14 @@
 def split_phonemes:
   [scan(
-    "aː|eː|iː|oː|uː|yː|øː|ɛː|aʊ̯|ɔɪ̯|aɪ̯|ɔʏ̯|."
+    "aː|eː|iː|oː|uː|yː|øː|p͡f|t͡ʃ|t͡s|ɛː|aʊ̯|ɔɪ̯|aɪ̯|ɔʏ̯|ɛɪ̯|."
   )]
 ;
 
 def normalize:
   gsub("[\\[\\]]"; "")
   | gsub("[ˈˌ.]"; "")
-  | gsub("t͡s"; "ʦ")
   | gsub("i̯";"j")
+  | gsub("ɑ";"a")
   | gsub("n̩";"ən")
   | gsub("ɐ̯"; "ʁ")
   | gsub("m̩"; "əm")
