@@ -8,7 +8,7 @@
   <title>Grammel – Ein Phonetik-Ratespiel</title>
 
   <meta name="description"
-    content="Grammel ist ein Wordle-ähnliches Ratespiel für IPA-Phoneme. Spieler:innen erraten fünfsegmentige Wörter anhand von Spektrogrammen und Formanten.">
+    content="Grammel ist ein Wordle-ähnliches Ratespiel für IPA-Phoneme. Spieler erraten fünfsegmentige Wörter anhand von Spektrogrammen und Formanten.">
 
   <meta name="keywords"
     content="Phonetik, IPA, Linguistik, Wordle, Spektrogramm, Formanten, Sprachwissenschaft, Aussprache">
@@ -18,16 +18,14 @@
   <!-- Open Graph (social preview) -->
   <meta property="og:title" content="Grammel – Ein Phonetik-Ratespiel">
   <meta property="og:description"
-    content="Errate IPA-Phoneme mit Hilfe von Spektrogrammen und Formanten. Ein Wordle-ähnliches Spiel für Sprachwissenschaft.">
+    content="Errate IPA-Phoneme mit Hilfe von Spektrogrammen und Formanten. Ein Wordle-ähnliches Spiel für Phonetiker.">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://example.org/grammel">
-  <meta property="og:image" content="https://example.org/grammel/preview.png">
+  <meta property="og:url" content="https://kmein.github.io/grammel/">
 
   <!-- Twitter / X -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Grammel – Phonetik spielerisch">
-  <meta name="twitter:description" content="Ein IPA-Ratespiel mit akustischen Hinweisen (Spektrogramm & Formanten).">
-  <meta name="twitter:image" content="https://example.org/grammel/preview.png">
+  <meta name="twitter:description" content="Ein IPA-Ratespiel mit phonetischen Hinweisen (Spektrogramm & Formanten).">
   <style>
     body {
       font-family: sans-serif;
@@ -122,6 +120,34 @@
       text-decoration: underline;
     }
 
+    .about {
+      width: 90%;
+      /* relative to viewport */
+      max-width: 40rem;
+      /* caps at 40rem (~640px) */
+      margin: 1rem auto;
+      /* centers horizontally */
+      font-size: 0.9rem;
+      color: #555;
+    }
+
+    .about summary {
+      cursor: pointer;
+      font-weight: 600;
+      list-style: none;
+      /* remove default marker */
+    }
+
+    .about summary::-webkit-details-marker {
+      display: none;
+      /* optional: remove arrow on Chrome/Safari */
+    }
+
+    .about p {
+      margin: 0.5rem 0;
+      /* spacing between paragraphs */
+    }
+
     #audio-container {
       display: none;
     }
@@ -131,6 +157,7 @@
         background: black;
         color: white;
       }
+
       #plot {
         filter: invert(1);
       }
