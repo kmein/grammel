@@ -134,12 +134,12 @@ function checkGuess() {
   });
 
   if (guess.join("") === solution.join("")) {
-    alert("You guessed it!");
+    alert("Richtig!");
     currentRow = 6;
   } else {
     currentRow++;
     currentGuess = [];
-    if (currentRow >= 6) alert("Game over! Solution: " + solution.join(""));
+    if (currentRow >= 6) alert("Spiel vorbei. Lösung: " + solution.join(""));
   }
   render();
 }
